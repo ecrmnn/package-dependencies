@@ -1,0 +1,27 @@
+{
+  "name": "package-dependencies",
+  "version": "1.0.0",
+  "description": "Get package.json dependencies from a Github repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ava tests/"
+  },
+  "keywords": [
+    "package dependencies",
+    "package.json",
+    "github",
+    "npm dependencies"
+  ],
+  "author": {
+    "name": "Daniel Eckermann",
+    "email": "danieleckermann@gmail.com",
+    "url": "danieleckermann.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "ava": "^0.12.0"
+  }
+}
