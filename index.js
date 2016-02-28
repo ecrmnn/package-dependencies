@@ -1,3 +1,5 @@
+'use strict';
+
 const request = require('request');
 
 exports.getAll = (username, repository, branch, callback) => {

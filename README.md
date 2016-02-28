@@ -1,4 +1,4 @@
-# package-dependencies
+# package-dependencies [![Build Status](https://travis-ci.org/ecrmnn/package-dependencies.svg?branch=master)](https://travis-ci.org/ecrmnn/package-dependencies)
 
 > Get package.json dependencies from a Github repository
 
