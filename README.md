@@ -1,4 +1,4 @@
-# package-dependencies [![Build Status](https://travis-ci.org/ecrmnn/package-dependencies.svg?branch=master)](https://travis-ci.org/ecrmnn/package-dependencies)
+# package-dependencies [![Build Status](https://travis-ci.org/ecrmnn/package-dependencies.svg?branch=master)](https://travis-ci.org/ecrmnn/package-dependencies) [![npm version](https://img.shields.io/npm/dm/package-dependencies.svg)](http://badge.fury.io/js/package-dependencies)
 
 > Get package.json dependencies from a Github repository
 

@@ -1,6 +1,6 @@
 {
   "name": "package-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get package.json dependencies from a Github repo",
   "main": "index.js",
   "scripts": {
